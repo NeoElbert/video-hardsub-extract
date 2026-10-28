@@ -2,7 +2,7 @@
 
 一个 Skill，两种入口：在 WorkBuddy 中直接提取视频画面文字，或安装 Windows 本地批量字幕资料库。两者共用 PaddleOCR、PP-OCRv5 server 模型和同一套时间线格式。
 
-当前版本：`0.2.0-rc9`，发布候选。源码采用 MIT；依赖和模型各自保留原许可证。官方仓库：https://github.com/NeoElbert/video-hardsub-extract 。固定版本和下载校验流程见 video-hardsub-extract/references/github-install.md。
+当前版本：`0.2.1`。源码采用 MIT；依赖和模型各自保留原许可证。官方仓库：https://github.com/NeoElbert/video-hardsub-extract 。固定版本和下载校验流程见 video-hardsub-extract/references/github-install.md。
 
 ## 入口一：WorkBuddy 直接提取
 

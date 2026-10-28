@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0-rc9",
+  "version": "0.2.1",
   "repository": "NeoElbert/video-hardsub-extract",
-  "tag": "v0.2.0-rc9",
-  "asset": "video-hardsub-extract-0.2.0-rc9.zip",
-  "sha256": "b8b35ff95efe8ea3ea4305deaec3420a592689072c1f5e351ad8798206b9eb8f",
+  "tag": "v0.2.1",
+  "asset": "video-hardsub-extract-0.2.1.zip",
+  "sha256": "2887547dcac5a6aa53beb5ef77695f7aa75078ae387e7926f457a16e46ebdc05",
   "license": "MIT"
 }

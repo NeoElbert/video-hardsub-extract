@@ -4,7 +4,7 @@ from pathlib import Path
 from runtime import configure
 from library import storage_root
 
-VERSION='0.2.0-rc9'
+VERSION='0.2.1'
 
 def install(workspace=None):
     root=configure(storage_root(workspace),quiet=True)

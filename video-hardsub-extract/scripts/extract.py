@@ -18,7 +18,7 @@ import time
 import unicodedata
 from runtime import configure
 
-SKILL_VERSION = '0.2.0-rc9'
+SKILL_VERSION = '0.2.1'
 
 
 def dump(path, data):

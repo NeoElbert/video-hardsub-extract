@@ -25,7 +25,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
 from runtime import configure, find_font  # noqa: E402  (must run before OCR imports)
 
-VERSION = '0.2.0-rc9'
+VERSION = '0.2.1'
 VIDEO_EXT = {'.mp4', '.mkv', '.webm', '.mov', '.flv', '.ts', '.avi', '.m4v', '.wmv'}
 
 

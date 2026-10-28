@@ -5,7 +5,7 @@ display_name_en: Video Hard-Subtitle OCR
 description: 按时间逐条提取视频画面文字，分开标注底部字幕与其他位置的文字、字框和可确认的样式；导出时间线文字稿 TXT 和字幕 SRT。支持本地视频、可访问链接，以及 D 盘本地批量资料库的保存、查阅、导出与删除。
 description_zh: 按时间逐条提取视频画面文字，分开标注底部字幕与其他位置的文字、字框和可确认的样式；导出时间线文字稿 TXT 和字幕 SRT。支持本地视频、可访问链接，以及 D 盘本地批量资料库的保存、查阅、导出与删除。
 description_en: Extract burned-in video subtitles as full TXT and timed SRT. Supports local videos, accessible share links, region previews and caching, plus a local batch library to save, browse, export and delete managed videos and results. Reads pixels, not audio.
-version: 0.2.0-rc9
+version: 0.2.1
 author: 超哥
 examples_zh:
   - "提取这条视频的全部画面文字，按时间逐条展示，区分底部字幕与其他位置，导出 TXT 和 SRT"

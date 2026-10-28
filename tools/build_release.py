@@ -12,7 +12,7 @@ def build(output):
         raise ValueError('Skill files differ from release-files.json; review changes first')
     output = Path(output).resolve()
     output.mkdir(parents=True, exist_ok=True)
-    target = output / 'video-hardsub-extract-0.2.0-rc9.zip'
+    target = output / 'video-hardsub-extract-0.2.1.zip'
     with zipfile.ZipFile(target, 'w', zipfile.ZIP_DEFLATED) as archive:
         for name in manifest:
             info = zipfile.ZipInfo('video-hardsub-extract/' + name, (2026,10,28,0,0,0))
