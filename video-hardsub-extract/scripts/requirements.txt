@@ -1,0 +1,5 @@
+paddlepaddle==3.2.2
+paddleocr==3.4.0
+yt-dlp[default]==2026.10.26
+pillow>=10.4
+psutil>=6

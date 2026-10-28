@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频画面字幕提取"
+  short_description: "在对话直接提取视频画面文字，或安装本地批量字幕工具，统一导出时间线全文与 TXT、SRT"
+  default_prompt: "使用 $video-hardsub-extract，帮我选择在 WorkBuddy 直接提取视频，或安装本地批量字幕工具；文字按时间和位置逐条展示，并导出 TXT、SRT。"
